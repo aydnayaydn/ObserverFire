@@ -1,0 +1,6 @@
+@ObserverFire_HostAddress = http://localhost:5080
+
+GET {{ObserverFire_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
